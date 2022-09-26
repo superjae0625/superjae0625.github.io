@@ -1,0 +1,29 @@
+h1 {
+   color: blue;
+   border-style: dotted;
+ }
+h2 {
+  color: yellow;
+  border-style: inset;
+}
+h3 {
+   color: green;
+   border-style: dashed solid;
+ }
+
+p {
+   background-color: aqua;
+   color: red;
+}
+
+span {
+   background-color: bisque;
+}
+
+ul {
+   color: blueviolet;
+}
+
+ol {
+   color: brown;
+}
